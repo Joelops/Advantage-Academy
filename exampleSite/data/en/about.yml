@@ -1,16 +1,16 @@
 ############################# About ###################################
 about:
   enable : true
-  title : About Us
+  title :О нас
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
+    title : Мы креативны
     content : Вы не можете использовать творчество. Чем больше вы используете, тем больше у вас есть. С нашей командой не бывает скучных дней. 
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
+    title : Мы профессионалы
     content : Наша команда профессиональна и готова работать с любым возрастом и уровнем английского языка.
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Наш подход не похож на другие. Ожидайте стабильных результатов и вывода вашего бизнеса на новый уровень.
+    title : Мы гений
+    content : Наш подход н Geniusе похож на другие. Ожидайте стабильных результатов и вывода вашего бизнеса на новый уровень.
