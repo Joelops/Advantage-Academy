@@ -3,25 +3,25 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : Мы - цифровая школа английского языка.
+  content : "Для вашего удобства мы предлагаем услуги на английском языке как офлайн, так и онлайн"
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
+    - title : Качественные репетиторы
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Наша команда наставников очень профессиональна и дружелюбна. Урок с любым из них не похож ни на один другой
       
       # feature item loop
-    - title : Easy Customization
+    - title : В удобном для вас местеt
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : С нашей командой мы готовы принести английский прямо в вашу зону комфорта.
 
       # feature item loop
-    - title : SEO Optimized
+    - title : Устойчивое улучшение.
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : с последовательной работой с нашими учителями, ожидайте получения измеримых результатов в стабильное время
       
       # feature item loop
-    - title : Easy Customization
+    - title : Стать увереннее
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Наша команда поможет вам говорить уверенно в кратчайшие сроки. Это улучшит ваши лидерские качества и начнёт общаться с иностранцами.
