@@ -4,14 +4,14 @@ service:
   title : Our Services
   service_item :
     # service item loop
-    - name : WordPress Theme
+    - name :Деловой и профессиональный английский
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : если вы хотите выучить английский, чтобы помочь вам улучшить свой бизнес и подняться по карьерной лестнице. Не смотрите дальше.
       
     # service item loop
-    - name : Responsive Design
+    - name : Общий английский
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Этот курс английского языка разработан для людей, которые хотят улучшить беглость и точность английского языка. Некоторые люди, которые проходят эти курсы, учатся для работы, другие - для учебы или просто для личного интереса.
       
     # service item loop
     - name : Media &amp; Advertisement
