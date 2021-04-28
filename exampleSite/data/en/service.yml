@@ -1,11 +1,11 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Our Services
+  title : наши сервисы
   service_item :
     # service item loop
     - name : Деловой и профессиональный английский
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      icon : ti-money # themify icon pack : https://themify.me/themify-icons
       content : если вы хотите выучить английский, чтобы помочь вам улучшить свой бизнес и подняться по карьерной лестнице. Не смотрите дальше.
       
     # service item loop
