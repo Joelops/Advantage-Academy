@@ -4,7 +4,7 @@ service:
   title : Our Services
   service_item :
     # service item loop
-    - name :Деловой и профессиональный английский
+    - name : Деловой и профессиональный английский
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
       content : если вы хотите выучить английский, чтобы помочь вам улучшить свой бизнес и подняться по карьерной лестнице. Не смотрите дальше.
       
@@ -14,21 +14,21 @@ service:
       content : Этот курс английского языка разработан для людей, которые хотят улучшить беглость и точность английского языка. Некоторые люди, которые проходят эти курсы, учатся для работы, другие - для учебы или просто для личного интереса.
       
     # service item loop
-    - name : Media &amp; Advertisement
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Для учебы и работы за границей
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Программы обучения английскому языку за рубежом позволят вам комфортно разговаривать и общаться с другими на английском языке. Поедете ли вы в Нью-Йорк на месяц или в Австралию на семестр.
       
     # service item loop
-    - name : Graphic Design
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Подготовка к собеседованию
+      icon : ti-comments-smiley # themify icon pack : https://themify.me/themify-icons
+      content : Лучший способ увеличить сомнения, страх и беспокойство - это подготовка. Подготовка включает в себя знание того, чего ожидать, понимание вопросов собеседования (и то, что интервьюер действительно хочет знать). Наша команда поможет вам получить работу вашей мечты.
       
     # service item loop
-    - name : Apps Development
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Колонки Nativ - Коррекция акцента
+      icon : ti-crown # themify icon pack : https://themify.me/themify-icons
+      content : у нас есть доступ к разговору с носителями языка, вы получите правильный акцент, который даст массу возможностей без проблем общаться с иностранцами
       
     # service item loop
-    - name : Networking
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Подготовка к экзамену
+      icon : ti-medall-alt # themify icon pack : https://themify.me/themify-icons
+      content : Если вы готовитесь к различным экзаменам. Не смотрите дальше, наша команда поможет вам успешно сдать экзамен.
