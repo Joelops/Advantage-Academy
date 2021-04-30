@@ -5,7 +5,7 @@ team:
   team_member :
     # team member loop
     - name : Abul Mal Muhit
-      image_webp : images/team/team-1.webp
+      image_webp : images/team/IMG_8714.PNG
       image : images/team/IMG_8714.PNG
       designation : CEO/Founder
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
