@@ -1,64 +1,66 @@
 ##################################### pricing ##############################
 pricing:
   enable : true
-  title : Our Plans
+  title : Наши планы
   pricing_table :
     # pricing table loop
-    - name : Free
-      price : $99
-      unit : month
+    - name : индивидуально ежедневно
+      price : 300 UAH
+      unit : Час
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - Деловой и профессиональный английский
+        - Общий английский
+        - Для учебы и работы за границей
+        - Подготовка к собеседованию
+        - Колонки Nativ - Коррекция акцента
+        - Подготовка к экзамену
       button:
         label : "Signup"
         link : "#"
       
     # pricing table loop
-    - name : Silver
-      price : $149
-      unit : month
+    - name : Индивидуально-Ежемесячно
+      price : 3300 UAH
+      unit : Ежемесячно
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - 12 уроков
+        - Деловой и профессиональный английский
+        - Общий английский
+        - Для учебы и работы за границей
+        - Подготовка к собеседованию
+        - Колонки Nativ - Коррекция акцента
+        - Подготовка к экзамену
       button:
         label : "Signup"
         link : "#"
         
     # pricing table loop
-    - name : Gold
-      price : $199
-      unit : month
+    - name : Группа ежедневно
+      price : 600 UAH 
+      unit : Час
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - Деловой и профессиональный английский
+        - Общий английский
+        - Для учебы и работы за границей
+        - Подготовка к собеседованию
+        - Колонки Nativ - Коррекция акцента
+        - Подготовка к экзамену
       button:
         label : "Signup"
         link : "#"
         
     # pricing table loop
-    - name : Platinum
-      price : $299
-      unit : month
+    - name : Группа Ежемесячно
+      price : 6700 UAH
+      unit : Ежемесячно
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - 12 уроков
+        - Деловой и профессиональный английский
+        - Общий английский
+        - Для учебы и работы за границей
+        - Подготовка к собеседованию
+        - Колонки Nativ - Коррекция акцента
+        - Подготовка к экзамену
       button:
         label : "Signup"
         link : "#"
