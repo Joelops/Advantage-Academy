@@ -19,7 +19,7 @@ pricing:
         link : "#"
       
     # pricing table loop
-    - name : Индивидуально-Ежемесячно
+    - name : Индивидуально Ежемесячно
       price : 3300 UAH
       unit : Ежемесячно
       services:
