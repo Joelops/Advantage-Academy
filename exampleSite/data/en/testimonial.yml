@@ -5,11 +5,11 @@ testimonial:
   bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
     # testimonial item loop
-    - name : Jonathon Andrew
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
+    - name : Nastya
+      image : images/client/IMG_8713.PNG
+      image_webp : images/client/IMG_8713.PNG
       date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      content : Pаботал с Advantage Academy 2 года и добился желаемых результатов!!!
       
     # testimonial item loop
     - name : Mark Dinn
