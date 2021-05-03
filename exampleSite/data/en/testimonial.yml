@@ -19,7 +19,7 @@ testimonial:
       content : Команда потрясающая, начали с ними работать без английского. Сейчас я руководитель проекта.
       
     # testimonial item loop
-    - name : Lemos Kail
+    - name : Vlad
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
       date : Dec 20, 2020
