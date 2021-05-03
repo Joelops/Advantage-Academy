@@ -119,8 +119,8 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/freeLogo.jpeg"
 [[params.social]]
-icon = "ti-facebook"
-link = "#"
+icon = "ti-instagram"
+link = "https://www.instagram.com/advantageacademy7/"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "#"
