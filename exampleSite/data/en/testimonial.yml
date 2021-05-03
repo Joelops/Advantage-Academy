@@ -12,15 +12,15 @@ testimonial:
       content : Pаботал с Advantage Academy 2 года и добился желаемых результатов!!!
       
     # testimonial item loop
-    - name : Mark Dinn
+    - name : Alex
       image : images/client/client-2.jpg
       image_webp : images/client/client-2.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      date : Feb 15, 2019
+      content : Команда потрясающая, начали с ними работать без английского. Сейчас я руководитель проекта.
       
     # testimonial item loop
     - name : Lemos Kail
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      date : Dec 20, 2020
+      content : Великие наставники. Довольный))
