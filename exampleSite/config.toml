@@ -136,9 +136,3 @@ link = "#"
 [[params.social]]
 icon = "ti-pinterest"
 link = "#" 
-
-swiftmailer:
-    transport: gmail
-    host:      ~
-    username:  advantageacademy2019
-    password:  Umwami1234
