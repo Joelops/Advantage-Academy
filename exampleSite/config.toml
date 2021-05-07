@@ -9,32 +9,32 @@ title = "Advantage Academy "
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-home = "Home"
+home = "Дом"
 languageCode = "en-us"
-languageName = "En"
+languageName = "Ru"
 weight = 1
 [[Languages.en.menu.main]]
-name = "about"
+name = "о нас"
 url = "#about"
 weight = 1
 [[Languages.en.menu.main]]
-name = "services"
+name = "Сервисы"
 url = "#services"
 weight = 2
 [[Languages.en.menu.main]]
-name = "team"
+name = "команда"
 url = "#team"
 weight = 4
 [[Languages.en.menu.main]]
-name = "pricing"
+name = "команда"
 url = "#pricing"
 weight = 5
 [[Languages.en.menu.main]]
-name = "blog"
+name = "блог"
 url = "#blog"
 weight = 6
 [[Languages.en.menu.main]]
-name = "contact"
+name = "Контактt"
 url = "#contact"
 weight = 7
 [Languages.fr]
