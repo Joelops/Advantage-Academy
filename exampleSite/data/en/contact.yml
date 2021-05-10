@@ -34,7 +34,7 @@ contact:
     submit : "Submit"
   
   actions:
-- action: "EMAIL Action"
+- action: "https://formspree.io/f/mwkalkeb"
   type: "EMAIL"
   title: "$title"
   from_name: "Buddy"
