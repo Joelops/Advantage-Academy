@@ -33,18 +33,4 @@ contact:
     message : "Message"
     submit : "Submit"
   
-  actions:
-- action: "https://formspree.io/f/mwkalkeb"
-  type: "EMAIL"
-  title: "$title"
-  from_name: "Buddy"
-  content: "<b>${BUDDY_PIPELINE_NAME}</b> execution #${BUDDY_EXECUTION_ID}"
-  recipients: "advantageacademy2019@gmail.com"
-  send_as_html: true
-  variables:
-  - key: "title"
-    value: "Pipeline executed successfully!"
-  file_attachments:
-  - "fs:///file1"
-  - "fs:///file2"
   
