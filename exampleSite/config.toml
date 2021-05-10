@@ -14,6 +14,10 @@ languageCode = "en-us"
 languageName = "Ru"
 weight = 1
 [[Languages.en.menu.main]]
+name = "дом"
+url = "#Home"
+weight = 1
+[[Languages.en.menu.main]]
 name = "о нас"
 url = "#about"
 weight = 1
