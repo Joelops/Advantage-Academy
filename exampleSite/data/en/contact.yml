@@ -1,8 +1,8 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Contact Us
-  subtitle : Contact Details
+  title : Свяжитесь с нами
+  subtitle : Контактная информация
   content : Есть вопрос? Нужна индивидуальная помощь?
             Нам нравится получать известия от членов нашего сообщества, поэтому не стесняйтесь обращаться к Нам. мы читаем и отвечаем на все получаемые сообщения.
             Вы можете использовать контактную форму сбоку или связаться со мной по контактам ниже
@@ -27,10 +27,10 @@ contact:
   contact_form:
     enable : true
     form_action : "https://formspree.io/f/mwkalkeb" #contact form works with https://formspree.io
-    name : "Your Name"
-    email : "Your Email"
-    subject : "Subject"
-    message : "Message"
-    submit : "Submit"
+    name : "Твое имя"
+    email : "Ваш  электронной почты"
+    subject : "телефон"
+    message : "Сообщение"
+    submit : "представить"
   
   
