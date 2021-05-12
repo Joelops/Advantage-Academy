@@ -1,26 +1,26 @@
 ################################# Testimonial #########################
 testimonial:
-  enable : true
-  bg_image : images/backgrounds/bg-testimonial.jpg
-  bg_image_webp : images/backgrounds/bg-testimonial.webp
-  testimonial_item :
+  enable: true
+  bg_image: images/backgrounds/bg-testimonial.jpg
+  bg_image_webp: images/backgrounds/bg-testimonial.webp
+  testimonial_item:
     # testimonial item loop
-    - name : Jonathon Andrew
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name: Nastya
+      image: images/client/IMG_8713.PNG
+      image_webp: images/client/IMG_8713.PNG
+      date: Dec 26, 2018
+      content: Worked with Advantage Academy for 2 years and achieved the desired results !!!
       
     # testimonial item loop
-    - name : Mark Dinn
-      image : images/client/client-2.jpg
-      image_webp : images/client/client-2.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name: Alex
+      image: images/client/client-2.jpg
+      image_webp: images/client/client-2.webp
+      date: Feb 15, 2019
+      content: The team is amazing, we started working with them without any english. Now I am the project manager.
       
     # testimonial item loop
-    - name : Lemos Kail
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name: Vlad
+      image: images/client/client-1.jpg
+      image_webp: images/client/client-1.webp
+      date: Dec 20, 2020
+      content: Great mentors. Satisfied))
