@@ -1,34 +1,34 @@
 ################################# Service #################################
 service:
-  enable: true
-  title: our services
-  service_item:
+  enable : true
+  title : our services
+  service_item :
     # service item loop
-    - name: Business and Professional English
-      icon: ti-money # themify icon pack: https://themify.me/themify-icons
-      content: if you want to learn English to help you improve your business and climb the career ladder. Look no further.
+    - name : Business and Professional English
+      icon : ti-money # themify icon pack: https://themify.me/themify-icons
+      content : if you want to learn English to help you improve your business and climb the career ladder. Look no further.
       
     # service item loop
-    - name: General English
-      icon: ti-layout # themify icon pack: https://themify.me/themify-icons
-      content: This English course is designed for people who want to improve their fluency and accuracy in English. Some people who take these courses study for work, others for study or just for personal interest.
+    - name : General English
+      icon : ti-layout # themify icon pack: https://themify.me/themify-icons
+      content : This English course is designed for people who want to improve their fluency and accuracy in English. Some people who take these courses study for work, others for study or just for personal interest.
       
     # service item loop
-    ame: For study and work abroad
-      icon: ti-world # themify icon pack: https://themify.me/themify-icons
-      content: English language training programs abroad will allow you to comfortably speak and communicate with others in English. Whether you're going to New York for a month or Australia for a semester.
+    - name : For study and work abroad
+      icon : ti-world # themify icon pack: https://themify.me/themify-icons
+      content : English language training programs abroad will allow you to comfortably speak and communicate with others in English. Whether you're going to New York for a month or Australia for a semester.
       
     # service item loop
-    - name: Preparing for an interview
-      icon: ti-comments-smiley # themify icon pack: https://themify.me/themify-icons
-      content: The best way to decrease doubt, fear, and anxiety is through preparation. Preparation includes knowing what to expect, understanding the interview questions (and what the interviewer really wants to know). Our team will help you get your dream job.
+    - name : Preparing for an interview
+      icon : ti-comments-smiley # themify icon pack: https://themify.me/themify-icons
+      content : The best way to decrease doubt, fear, and anxiety is through preparation. Preparation includes knowing what to expect, understanding the interview questions (and what the interviewer really wants to know). Our team will help you get your dream job.
       
     # service item loop
-    - name: Nativ speakers - Accent correction
-      icon: ti-crown # themify icon pack: https://themify.me/themify-icons
-      content: we have access to conversation with native speakers, you will get the right accent, which will give you a lot of opportunities to communicate with foreigners without any problems
+    - name : Nativ speakers - Accent correction
+      icon : ti-crown # themify icon pack: https://themify.me/themify-icons
+      content : we have access to conversation with native speakers, you will get the right accent, which will give you a lot of opportunities to communicate with foreigners without any problems
       
     # service item loop
-    - name: Exam Preparation
-      icon: ti-medall-alt # themify icon pack: https://themify.me/themify-icons
-      content: If you are preparing for various exams. Look no further, our team will help you pass the exam successfully.
+    - name : Exam Preparation
+      icon : ti-medall-alt # themify icon pack: https://themify.me/themify-icons
+      content : If you are preparing for various exams. Look no further, our team will help you pass the exam successfully.
