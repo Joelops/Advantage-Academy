@@ -1,12 +1,12 @@
 ############################### Banner ################################
 banner:
-  enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
-  icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  enable: true
+  bg_image_webp: images/backgrounds/london-phone-booth-awesome-full-hd-wallpaper-hd-1040327643.jpg
+  bg_image: images/backgrounds/london-phone-booth-awesome-full-hd-wallpaper-hd-1040327643.jpg
+  icon: ''
+  title: Welcome To Advantage Academy
+  content: Where English Is Made Easy)
   button:
-    enable : true
-    label : "Explore Us"
-    link : "#services"
+    enable: true
+    label: WHY ENGLISH
+    link: https://youtu.be/kCG5Bb9PfjY
