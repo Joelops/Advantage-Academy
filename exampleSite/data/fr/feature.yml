@@ -17,11 +17,11 @@ feature:
       content : With our team, we are ready to bring English right into your comfort zone..
 
       # feature item loop
-   - title: Steady improvement.
-      icon: ti-stats-up # themify icon pack: https://themify.me/themify-icons
-      content: with consistency work with our teachers, expect measurable results in a stable time
+   - title : Steady improvement.
+      icon : ti-stats-up # themify icon pack: https://themify.me/themify-icons
+      content : with consistency work with our teachers, expect measurable results in a stable time
       
       # feature item loop
-    - title: Become more confident
-      icon: ti-announcement # themify icon pack: https://themify.me/themify-icons
-      content: Our team will help you speak confidently in no time. This will improve your leadership skills and start communicating with foreigners.
+    - title : Become more confident
+      icon : ti-announcement # themify icon pack: https://themify.me/themify-icons
+      content : Our team will help you speak confidently in no time. This will improve your leadership skills and start communicating with foreigners.
