@@ -16,7 +16,7 @@ pricing:
         - Exam preparation
       button:
         label: "Signup"
-        link: "#"
+        link: "#contact"
       
     # pricing table loop
     - name: Individually Monthly
@@ -32,7 +32,7 @@ pricing:
         - Exam preparation
       button:
         label: "Signup"
-        link: "#"
+        link: "#contact"
         
     # pricing table loop
     # pricing table loop
@@ -48,7 +48,7 @@ pricing:
         - Exam preparation
       button:
         label: "Signup"
-        link: "#"
+        link: "#contact"
         
     # pricing table loop
     - name: Group Monthly
@@ -64,4 +64,4 @@ pricing:
         - Exam preparation
       button:
         label: "Signup"
-        link: "#"
+        link: "#contact"
