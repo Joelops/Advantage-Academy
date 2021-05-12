@@ -3,25 +3,25 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : We are a digital English school.
+  content : "For your convenience, we offer services in English, both offline and online."
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
+    - title : Quality tutors
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Our mentor team is very professional and friendly. Lesson with any of them is like no other
       
       # feature item loop
-    - title : Easy Customization
+    - title : In a place convenient for you
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : With our team, we are ready to bring English right into your comfort zone..
 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+   - title: Steady improvement.
+      icon: ti-stats-up # themify icon pack: https://themify.me/themify-icons
+      content: with consistency work with our teachers, expect measurable results in a stable time
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title: Become more confident
+      icon: ti-announcement # themify icon pack: https://themify.me/themify-icons
+      content: Our team will help you speak confidently in no time. This will improve your leadership skills and start communicating with foreigners.
