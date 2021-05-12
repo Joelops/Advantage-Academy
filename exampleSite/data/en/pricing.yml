@@ -16,7 +16,7 @@ pricing:
         - Подготовка к экзамену
       button:
         label : "Signup"
-        link : "#"
+        link : "#contact"
       
     # pricing table loop
     - name : Индивидуально Ежемесячно
@@ -32,7 +32,7 @@ pricing:
         - Подготовка к экзамену
       button:
         label : "Signup"
-        link : "#"
+        link : "#contact"
         
     # pricing table loop
     - name : Группа ежедневно
@@ -47,7 +47,7 @@ pricing:
         - Подготовка к экзамену
       button:
         label : "Signup"
-        link : "#"
+        link : "#contact"
         
     # pricing table loop
     - name : Группа Ежемесячно
@@ -63,4 +63,4 @@ pricing:
         - Подготовка к экзамену
       button:
         label : "Signup"
-        link : "#"
+        link : "#contact"
