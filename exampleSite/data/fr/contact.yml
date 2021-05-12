@@ -3,29 +3,32 @@ contact:
   enable : true
   title : Contact Us
   subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
-
+  content : Have a question? Need personalized help?
+            We love hearing from our community members, so feel free to contact Us. we read and reply to all messages we receive.
+            You can use the contact form on the side or contact us at the contacts below
+            Let's talk soon)
+            
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+      info : "Ukraine Kharkov"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
+      info : "Phone: +380-73-118-4766"
       
     - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
+      info : "Fax: +380-73-118-4766"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
+      info : "Email: advantageacademy2019@gmail.com"
 
 
   # Contact form
   contact_form:
     enable : true
-    form_action : "#" #contact form works with https://formspree.io
-    name : "votre nom"
-    email : "Votre email"
-    subject : "Matière"
+    form_action : "https://formspree.io/f/mwkalkeb" #contact form works with https://formspree.io
+    name : "Your Name"
+    email : "Your Email"
+    subject : "Phone Number"
     message : "Message"
-    submit : "Soumettre"
+    submit : "Submit"
