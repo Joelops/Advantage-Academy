@@ -10,7 +10,7 @@ funfacts:
       count : "320"
     
     # counter item loop
-    - title : "Проект создан"
+    - title : "Курсы пройдены"
       icon : "ti-archive" # themify icon pack : https://themify.me/themify-icons
       count : "350"
     
