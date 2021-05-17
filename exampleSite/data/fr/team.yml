@@ -23,7 +23,7 @@ team:
     - name : Olga
       image_webp : images/team/ola.PNG
       image : images/team/ola.PNG
-      designation : менеджер по продажам
+      designation : Sales Manager
       content : Investing in knowledge generates the highest return.
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
