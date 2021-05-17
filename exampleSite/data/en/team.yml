@@ -24,7 +24,7 @@ team:
       image_webp : images/team/ola.PNG
       image : images/team/ola.PNG
       designation : Manager
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      content : Инвестиции в знания приносят наибольший доход.
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "https://www.instagram.com/advantageacademy7/"
@@ -55,8 +55,8 @@ team:
     - name : Huston
       image_webp : images/team/huston.PNG
       image : images/team/huston.PNG
-      designation : SEO Specialist
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      designation : менеджер по продажам
+      content : Моя проблема в том, что я не могу перехитрить эту команду
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "https://www.instagram.com/advantageacademy7/"
