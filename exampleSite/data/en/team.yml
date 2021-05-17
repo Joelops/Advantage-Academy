@@ -23,7 +23,7 @@ team:
     - name : Olga
       image_webp : images/team/ola.PNG
       image : images/team/ola.PNG
-      designation : Manager
+      designation : менеджер по продажам
       content : Инвестиции в знания приносят наибольший доход.
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
@@ -55,7 +55,7 @@ team:
     - name : Huston
       image_webp : images/team/huston.PNG
       image : images/team/huston.PNG
-      designation : менеджер по продажам
+      designation : Специалист по настроениям
       content : Моя проблема в том, что я не могу перехитрить эту команду
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
