@@ -1,7 +1,7 @@
 ##################################### pricing ##############################
 pricing:
   enable : true
-  title : Наши планы
+  title : Our Plan
   pricing_table :
     # pricing table loop
     - name: individually daily
