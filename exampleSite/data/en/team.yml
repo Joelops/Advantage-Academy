@@ -56,7 +56,7 @@ team:
       image_webp : images/team/huston.PNG
       image : images/team/huston.PNG
       designation : Специалист по настроениям
-      content : Моя проблема в том, что я не могу перехитрить эту команду
+      content : Моя проблема в том, что я не могу перехитрить своих товарищей по команде !!
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "https://www.instagram.com/advantageacademy7/"
