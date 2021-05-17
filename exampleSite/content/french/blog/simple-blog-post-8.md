@@ -7,12 +7,37 @@ author: John Doe
 description : "This is meta description"
 ---
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+It’s hard.
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+But every morning you wake up in good spirits looking forward to the working day ahead.
 
-> Design is not just what it looks like and feels like. Design is how it works.
+You’re ‘locked-in’ at home, but you have successfully adjusted to working from home (WFH) with all the issues that that involves, managed the children and connected virtually with your team.
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+And yet, by the end of the day, you feel deflated. You’ve spent the whole day extinguishing fires, participating in strategic meetings and trying to keep your international team’s spirits up.
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+You’re trying to stay positive but it’s getting harder and harder. You’re trying to bolster your team by starting each meeting with some small talk. But no one’s really in the mood for what feels like meaningless chit chat. Besides, there aren’t many small talk topics that feel relevant at the moment – sport, travel, hobbies, restaurants, favourite food, the weekend’s activities.
+
+But you persevere. You ask about what creative things people are doing instead – online exercise classes, online gin & tonic parties, online theatre screenings, fill in the blanks. You encourage them to share their new experiences.
+
+Added to that you’re watching a gazillion free webinars, reading plenty of articles and social media posts offering you endless tips on how to stay healthy, sane and positive. You’re doing all of this so that you have strategies you can implement in those meetings.
+
+These topics are ‘safe’. These topics are ‘safe’ because you have the necessary English vocabulary to discuss them. These topics allow you to stay positive.
+
+You need to stay positive for your team.
+
+I have a question.
+
+How’s staying positive working for you?
+For me, it’s draining. Every time I tell myself to be positive I want to scream. I don’t always want to be positive. I want to cry. I want to be angry. I want to vent my frustration. I want to show my fear of what’s happening all around us.
+
+Above all, I want to grieve.
+
+For the loss of my freedom to go out (albeit temporarily). For the loss of physical connection. For how Covid-19 has changed our lives in a blink of an eye. For how terrifying it is.
+
+I am not alone in feeling this way. I bet you do. I bet your team does. I know my clients do.
+
+And yet, you don’t talk about it to each other. You insist on putting on a brave face. You tell yourself that it’s unprofessional, as a leader, to share such vulnerable feelings.
+
+It’s much easier to keep things on a neutral level.
+
+It’s easier because you don’t think you have the necessary English to communicate how you truly feel. To invite your team to share their fears with you.
