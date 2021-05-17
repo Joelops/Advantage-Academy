@@ -53,8 +53,8 @@ team:
         
     # team member loop
     - name : Huston
-      image_webp : images/team/huston.jpg
-      image : images/team/huston.jpg
+      image_webp : images/team/huston.PNG
+      image : images/team/huston.PNG
       designation : SEO Specialist
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social :
