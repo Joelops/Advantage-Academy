@@ -1,7 +1,7 @@
 ############################### team ############################
 team:
   enable : true
-  title : Наша команда
+  title : Our Team
   team_member :
     # team member loop
     - name : Joel. 
@@ -24,7 +24,7 @@ team:
       image_webp : images/team/ola.PNG
       image : images/team/ola.PNG
       designation : менеджер по продажам
-      content : Инвестиции в знания приносят наибольший доход.
+      content : Investing in knowledge generates the highest return.
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "https://www.instagram.com/advantageacademy7/"
@@ -55,8 +55,8 @@ team:
     - name : Huston
       image_webp : images/team/huston.PNG
       image : images/team/huston.PNG
-      designation : Специалист по настроениям
-      content : Моя проблема в том, что я не могу перехитрить эту команду
+      designation : Mood Specialist
+      content : My problem is I cant outsmart my teamates!!
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "https://www.instagram.com/advantageacademy7/"
