@@ -48,6 +48,9 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "En"
 weight = 2
+[[Languages.en.menu.main]]
+name = "Home"
+url = "#Home"
 [[Languages.fr.menu.main]]
 name = "About Us"
 url = "#about"
