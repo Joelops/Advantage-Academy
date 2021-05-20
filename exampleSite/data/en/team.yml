@@ -21,7 +21,7 @@ team:
         
     # team member loop
     - name : Olga
-      image_webp : images/team/ola.PNG
+      image_webp : images/team/IMG_0120.PNG
       image : images/team/ola.PNG
       designation : менеджер по продажам
       content : Инвестиции в знания приносят наибольший доход.
@@ -53,7 +53,7 @@ team:
         
     # team member loop
     - name : Huston
-      image_webp : images/team/huston.PNG
+      image_webp : images/team/IMG_0121.PNG
       image : images/team/huston.PNG
       designation : Специалист по настроениям
       content : Моя проблема в том, что я не могу перехитрить своих товарищей по команде !!
