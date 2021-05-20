@@ -36,11 +36,11 @@ team:
           link : "#"
         
     # team member loop
-    - name : Michael Jonson
-      image_webp : images/team/team-3.webp
-      image : images/team/team-3.jpg
-      designation : Web Developer
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    - name : Lillian
+      image_webp : images/team/lillian.PNG
+      image : images/team/lillian.PNG
+      designation : Репетитор
+      content : Я учитель) в чем твоя сверхспособность?
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "https://www.instagram.com/advantageacademy7/"
