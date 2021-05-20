@@ -21,7 +21,7 @@ team:
         
     # team member loop
     - name : Olga
-      image_webp : images/team/ola.PNG
+      image_webp : images/team/IMG_0120.PNG
       image : images/team/ola.PNG
       designation : Sales Manager
       content : Investing in knowledge generates the highest return.
@@ -53,7 +53,7 @@ team:
         
     # team member loop
     - name : Huston
-      image_webp : images/team/huston.PNG
+      image_webp : images/team/IMG_0121.PNG
       image : images/team/huston.PNG
       designation : Mood Specialist
       content : My problem is I cant outsmart my teamates!!
