@@ -7,7 +7,7 @@ testimonial:
     # testimonial item loop
     - name : Anna
       image : images/Anna.PNG
-      image_webp : images/client/IMG_8713.PNG
+      image_webp : images/Anna.PNG
       date : Dec 26, 2018
       content : Pаботал с Advantage Academy 2 года и добился желаемых результатов!!!
       
