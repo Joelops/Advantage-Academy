@@ -5,9 +5,9 @@ testimonial:
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
     # testimonial item loop
-    - name: Nastya
-      image: images/client/IMG_8713.PNG
-      image_webp: images/client/IMG_8713.PNG
+    - name: Anna
+      image: images/Anna.PNG
+      image_webp: images/Anna.PNG
       date: Dec 26, 2018
       content: Worked with Advantage Academy for 2 years and achieved the desired results !!!
       
