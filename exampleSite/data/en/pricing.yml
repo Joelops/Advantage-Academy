@@ -36,7 +36,7 @@ pricing:
         
     # pricing table loop
     - name : Группа ежедневно
-      price : 500 UAH 
+      price : 200 UAH 
       unit : Час
       services:
         - Деловой и профессиональный английский
@@ -51,7 +51,7 @@ pricing:
         
     # pricing table loop
     - name : Группа Ежемесячно
-      price : 5500 UAH
+      price : 2160 UAH
       unit : Ежемесячно
       services:
         - 12 уроков
