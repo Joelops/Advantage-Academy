@@ -37,7 +37,7 @@ pricing:
     # pricing table loop
     # pricing table loop
     - name: Group daily
-      price: 500 UAH
+      price: 200 UAH / 2-3 people
       unit: Hour
       services:
         - Business and professional English
@@ -52,7 +52,7 @@ pricing:
         
     # pricing table loop
     - name: Group Monthly
-      price: 5500 UAH
+      price: 2160 UAH / 2-3 people
       unit: Monthly
       services:
         - 12 lessons
